@@ -1,4 +1,4 @@
 Assignment
 
 1. RGB Image
-2. Binary Image
+2. Binary Image 
